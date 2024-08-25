@@ -1,1 +1,17 @@
+Business Strategy RADM
 
+1) Strategic Drivers
+<\br>
+
+2) Building Blocks
+<br/>
+```mermaid
+mindmap
+  root((RADM Building Blocks))
+    Category 1
+    Category 2
+    Category 3
+    Category 4
+```
+
+3) Technology Strategy 
