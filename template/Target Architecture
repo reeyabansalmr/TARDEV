@@ -1,0 +1,12 @@
+Target Architecture
+
+1) Application Landscape
+```mermaid
+block-beta
+      columns 7
+      MRAm:2 RIAG:4 RIAM:1
+      MRoC:2 MRG:4 MRIO:1
+```
+
+2) How to attach Power BI Report -  https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-connect-to-github
+3) How to link LeanIX Report - https://github.com/leanix/leanix-reporting
