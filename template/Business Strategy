@@ -14,4 +14,18 @@ mindmap
     Category 4
 ```
 
-3) Technology Strategy 
+3) Technology Strategy
+```mermaid
+mindmap
+  root((Technology Standard))
+    GROWTH
+        PT 1
+        PT 2
+    EFFICIENCY
+        PT 1
+        PT 2
+    FOUNDATIONAL
+    SYNERGIES
+    COST SAVINGS
+    INNOVATION
+```
